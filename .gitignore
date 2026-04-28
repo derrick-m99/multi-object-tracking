@@ -28,5 +28,3 @@ htmlcov/
 .idea/
 
 # Project-specific
-outputs/*.mp4
-data/*.mp4
